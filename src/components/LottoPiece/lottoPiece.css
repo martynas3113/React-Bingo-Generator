@@ -1,0 +1,19 @@
+.lotto-piece {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:peru;
+    font-size: 27px;
+    text-align: center;
+    color:white;
+    position: relative;
+
+}
+
+    .lotto-piece > p {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-130%);
+    }
