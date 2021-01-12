@@ -1,6 +1,6 @@
 ## React lotto
 
-Simple React project to learn how to properly change state nad pass it on props.
+Simple React project to learn how to properly change state and pass it to props.
 
 <b>Features:</b>
 - Generates 6 random numbers on click in range from 1 to 50 (default)
