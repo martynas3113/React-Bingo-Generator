@@ -1,4 +1,4 @@
-## React lotto
+## React-Bingo-Generator
 
 Simple React project to learn how to properly change state and pass it to props.
 
